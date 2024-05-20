@@ -1,0 +1,45 @@
+{
+  "stash": [
+    {
+      "comments_count": 0,
+      "created_at": "2024/05/15 22:05:02 -0400",
+      "dye_lot": "",
+      "favorites_count": 0,
+      "handspun": false,
+      "has_photo": false,
+      "id": 28997836,
+      "location": "",
+      "permalink": "yarnart-baby-cotton-knitting-yarn",
+      "updated_at": "2024/05/20 18:23:02 -0400",
+      "name": "YarnArt Baby Cotton Knitting Yarn",
+      "stash_status": {
+        "id": 2,
+        "name": "All used up"
+      },
+      "colorway_name": "",
+      "color_family_name": null,
+      "tag_names": []
+    },
+    {
+      "comments_count": 0,
+      "created_at": "2024/05/15 22:05:13 -0400",
+      "dye_lot": "",
+      "favorites_count": 0,
+      "handspun": false,
+      "has_photo": false,
+      "id": 28997838,
+      "location": "",
+      "permalink": "yarnart-baby-cotton-knitting-yarn-2",
+      "updated_at": "2024/05/20 18:22:47 -0400",
+      "name": "YarnArt Baby Cotton Knitting Yarn",
+      "stash_status": {
+        "id": 1,
+        "name": "In stash"
+      },
+      "colorway_name": "Brick Color 429",
+      "color_family_name": "Red",
+      "tag_names": []
+    }
+  ],
+  "paginator": null
+}
