@@ -1,0 +1,238 @@
+{
+  "yarn": {
+    "discontinued": false,
+    "gauge_divisor": 4,
+    "grams": 25,
+    "id": 209189,
+    "machine_washable": null,
+    "max_gauge": 21,
+    "min_gauge": null,
+    "name": "Pigalle",
+    "permalink": "sesia-pigalle",
+    "rating_average": 4.38,
+    "rating_count": 8,
+    "rating_total": 35,
+    "texture": "plied, fluffy",
+    "thread_size": null,
+    "wpi": null,
+    "yardage": 229,
+    "notes_html": "\n<p>PIGALLE <br />71% Super Kid Mohair – 20% Silk – 5% Metallized Polyester – 4% Polyamide</p>\n\n<p>0,88 oz e = 229 yds/ball <br />Needles n.: 2.5 mm - 3.5 mm <br />USA 1.5-4</p>\n\n<p>Gauge 21 stitches, 32 rows over 10 cm / 4 inches.</p>\n",
+    "min_needle_size": {
+      "id": 21,
+      "us": "1½",
+      "metric": 2.5,
+      "us_steel": null,
+      "crochet": false,
+      "knitting": true,
+      "hook": null,
+      "name": "US 1½ - 2.5 mm",
+      "pretty_metric": "2.5"
+    },
+    "max_needle_size": {
+      "id": 4,
+      "us": "4 ",
+      "metric": 3.5,
+      "us_steel": "00",
+      "crochet": false,
+      "knitting": true,
+      "hook": "E",
+      "name": "US 4  - 3.5 mm",
+      "pretty_metric": "3.5"
+    },
+    "min_hook_size": null,
+    "max_hook_size": null,
+    "personal_attributes": {
+      "favorited": false,
+      "bookmark_id": null
+    },
+    "yarn_company": {
+      "id": 3111,
+      "name": "Sesia",
+      "permalink": "sesia",
+      "url": "https://www.manifatturasesia.it",
+      "yarns_count": 179
+    },
+    "yarn_weight": {
+      "crochet_gauge": "",
+      "id": 7,
+      "knit_gauge": "32-34",
+      "max_gauge": null,
+      "min_gauge": null,
+      "name": "Lace",
+      "ply": "2",
+      "wpi": null
+    },
+    "yarn_fibers": [
+      {
+        "id": 387734,
+        "percentage": 4,
+        "fiber_type": {
+          "animal_fiber": false,
+          "id": 2,
+          "name": "Nylon",
+          "synthetic": true,
+          "vegetable_fiber": false
+        },
+        "fiber_category": {
+          "id": 216,
+          "name": "Nylon / Polyamide",
+          "permalink": "nylon",
+          "parent": {
+            "id": 207,
+            "name": "Manufactured Fibers",
+            "permalink": "manufactured-fibers"
+          }
+        }
+      },
+      {
+        "id": 387733,
+        "percentage": 5,
+        "fiber_type": {
+          "animal_fiber": false,
+          "id": 6,
+          "name": "Polyester",
+          "synthetic": true,
+          "vegetable_fiber": false
+        },
+        "fiber_category": {
+          "id": 217,
+          "name": "Polyester",
+          "permalink": "polyester",
+          "parent": {
+            "id": 207,
+            "name": "Manufactured Fibers",
+            "permalink": "manufactured-fibers"
+          }
+        }
+      },
+      {
+        "id": 387732,
+        "percentage": 20,
+        "fiber_type": {
+          "animal_fiber": true,
+          "id": 9,
+          "name": "Silk",
+          "synthetic": false,
+          "vegetable_fiber": false
+        },
+        "fiber_category": {
+          "id": 167,
+          "name": "Silk",
+          "permalink": "silk"
+        }
+      },
+      {
+        "id": 387731,
+        "percentage": 71,
+        "fiber_type": {
+          "animal_fiber": true,
+          "id": 7,
+          "name": "Mohair",
+          "synthetic": false,
+          "vegetable_fiber": false
+        },
+        "fiber_category": {
+          "id": 160,
+          "name": "Mohair",
+          "permalink": "mohair",
+          "parent": {
+            "id": 157,
+            "name": "Goat",
+            "permalink": "goat"
+          }
+        }
+      }
+    ],
+    "yarn_attributes": [
+      {
+        "description": "wash by hand in cold water",
+        "id": 5,
+        "name": "Hand Wash Cold",
+        "permalink": "hand-wash-cold",
+        "yarn_attribute_group": {
+          "id": 8,
+          "name": "Care",
+          "permalink": "care"
+        }
+      },
+      {
+        "description": "dyed by machine",
+        "id": 12,
+        "name": "Machine dyed",
+        "permalink": "machine-dyed",
+        "yarn_attribute_group": {
+          "id": 11,
+          "name": "Dye",
+          "permalink": "dye"
+        }
+      },
+      {
+        "description": "lay flat to dry",
+        "id": 76,
+        "name": "Dry Flat",
+        "permalink": "dry-flat",
+        "yarn_attribute_group": {
+          "id": 8,
+          "name": "Care",
+          "permalink": "care"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "id": 107898448,
+        "sort_order": 1,
+        "user_id": 9750629,
+        "x_offset": -35,
+        "y_offset": -4,
+        "square_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_square.jpg",
+        "medium_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_medium.jpg",
+        "thumbnail_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_thumbnail.jpg",
+        "small_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_small.jpg",
+        "flickr_url": null,
+        "shelved_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_shelved.jpg",
+        "medium2_url": "https://images4-a.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_medium2.jpg",
+        "small2_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_small2.jpg",
+        "caption": null,
+        "caption_html": null,
+        "copyright_holder": null
+      },
+      {
+        "id": 107898458,
+        "sort_order": 2,
+        "user_id": 9750629,
+        "x_offset": 0,
+        "y_offset": 0,
+        "square_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185870/2b_square.jpg",
+        "medium_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/815185870/2b_medium.jpg",
+        "thumbnail_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/815185870/2b_thumbnail.jpg",
+        "small_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185870/2b_small_best_fit.jpg",
+        "flickr_url": null,
+        "shelved_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/815185870/2b_shelved.jpg",
+        "medium2_url": "https://images4-a.ravelrycache.com/uploads/SesiaTricot/815185870/2b_medium2.jpg",
+        "small2_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185870/2b_small2.jpg",
+        "caption": null,
+        "caption_html": null,
+        "copyright_holder": null
+      },
+      {
+        "id": 108403591,
+        "sort_order": 3,
+        "user_id": 9750629,
+        "x_offset": 0,
+        "y_offset": 0,
+        "square_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/819270610/3bis_square.jpg",
+        "medium_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/819270610/3bis_medium.jpg",
+        "thumbnail_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/819270610/3bis_thumbnail.jpg",
+        "small_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/819270610/3bis_small_best_fit.jpg",
+        "flickr_url": null,
+        "shelved_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/819270610/3bis_shelved.jpg",
+        "medium2_url": "https://images4-a.ravelrycache.com/uploads/SesiaTricot/819270610/3bis_medium2.jpg",
+        "small2_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/819270610/3bis_small2.jpg",
+        "caption": null,
+        "caption_html": null,
+        "copyright_holder": null
+      }
+    ]
+  }
+}

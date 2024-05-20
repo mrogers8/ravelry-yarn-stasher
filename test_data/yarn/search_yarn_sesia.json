@@ -1,0 +1,57 @@
+{
+  "yarns": [
+    {
+      "discontinued": false,
+      "gauge_divisor": 4,
+      "grams": 25,
+      "id": 209189,
+      "machine_washable": null,
+      "max_gauge": 21,
+      "min_gauge": null,
+      "name": "Pigalle",
+      "permalink": "sesia-pigalle",
+      "rating_average": 4.38,
+      "rating_count": 8,
+      "rating_total": 35,
+      "texture": "plied, fluffy",
+      "thread_size": null,
+      "wpi": null,
+      "yardage": 229,
+      "yarn_company_name": "Sesia",
+      "first_photo": {
+        "id": 107898448,
+        "sort_order": 1,
+        "user_id": 9750629,
+        "x_offset": -35,
+        "y_offset": -4,
+        "square_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_square.jpg",
+        "medium_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_medium.jpg",
+        "thumbnail_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_thumbnail.jpg",
+        "small_url": "https://images4-f.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_small.jpg",
+        "medium2_url": "https://images4-a.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_medium2.jpg",
+        "small2_url": "https://images4-g.ravelrycache.com/uploads/SesiaTricot/815185774/Pigalle_gomitolo-new-1_small2.jpg",
+        "caption": null,
+        "caption_html": null,
+        "copyright_holder": null
+      },
+      "personal_attributes": null,
+      "yarn_weight": {
+        "crochet_gauge": "",
+        "id": 7,
+        "knit_gauge": "32-34",
+        "max_gauge": null,
+        "min_gauge": null,
+        "name": "Lace",
+        "ply": "2",
+        "wpi": null
+      }
+    }
+  ],
+  "paginator": {
+    "page_count": 1,
+    "page": 1,
+    "page_size": 50,
+    "results": 1,
+    "last_page": 1
+  }
+}
