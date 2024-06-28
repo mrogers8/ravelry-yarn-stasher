@@ -45,25 +45,26 @@ def ravelry_list_stash(id: str):
 def ravelry_create_stash():
     stash_params = {
         "yarn_id": 209189,
-        "Pack": {
-            "colorway": 8080,
-            "skeins": 2,
+        "pack": {
+            "colorway": "8080",
+            "skeins": "2",
             "purchased_date": "1997-08-01",
             "total_paid": "17.38",
             "total_paid_currency": "USD"
         }
     }
+    print("DEBUG: {fstash_params}".format(fstash_params=json.dumps(stash_params)))
 
     response = requests.post(endpoints['create_stash'].format(username = ravelry_user), auth=auth,
-                             params=json.dumps(stash_params))
+                             data=json.dumps(stash_params))
     response.close()
     return response.text
 
 
 def ravelry_update_pack(pack_id: str):
     pack_params = {
-        "colorway": 8080,
-        "skeins": 2,
+        "colorway": "8080",
+        "skeins": "2",
         "purchased_date": "1997-08-01",
         "total_paid": "17.38",
         "total_paid_currency": "USD"
